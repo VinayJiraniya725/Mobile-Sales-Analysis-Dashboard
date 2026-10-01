@@ -5,7 +5,7 @@
 This project is an interactive **Mobile Sales Dashboard** created using **Microsoft Power BI** to analyze mobile sales performance, transactions, pricing, customer ratings, payment methods, and monthly sales trends.
 
 ## 🎯 Project priview
-   ()
+   (https://github.com/VinayJiraniya725/Mobile-Sales-Analysis-Dashboard/blob/main/mobile%20dashboard%201.png)
 
 
 ## 🎯 Project Objective
