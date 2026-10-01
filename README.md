@@ -4,6 +4,10 @@
 
 This project is an interactive **Mobile Sales Dashboard** created using **Microsoft Power BI** to analyze mobile sales performance, transactions, pricing, customer ratings, payment methods, and monthly sales trends.
 
+## 🎯 Project priview
+   ()
+
+
 ## 🎯 Project Objective
 
 The objective of this project is to analyze mobile sales data and generate meaningful business insights that can help understand sales performance and customer purchasing patterns.
